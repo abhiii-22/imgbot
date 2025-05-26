@@ -1,4 +1,4 @@
 python-telegram-bot==20.0
-rembg>=2.0.41
+rembg[no-numpy]>=2.0.41
 Pillow
 onnxruntime
